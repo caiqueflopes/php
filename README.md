@@ -1,6 +1,4 @@
 # php
-# php
-# php
-# php
-# php
-# php
+#MySQL
+#Bootstrap
+#PHPMailer
